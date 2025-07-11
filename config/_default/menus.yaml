@@ -8,6 +8,9 @@ main:
   - name: Research
     url: research/
     weight: 20
-  - name: Publications
+  - name: Uses
     url: uses/
     weight: 30
+  - name: Publications
+    url: publications/
+    weight: 40
