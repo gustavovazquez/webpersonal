@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.
+title: Gustavo Vazquez
 
 # Name pronunciation (optional)
 name_pronunciation: Gustavo Vazquez
