@@ -2,8 +2,6 @@
 # Display name
 title: Gustavo Vazquez
 
-# Name pronunciation (optional)
-name_pronunciation: Gustavo Vazquez
 
 # Full name (for SEO)
 first_name: Gustavo
@@ -21,7 +19,7 @@ role: Academic Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidad Católica del Uruguay
+  - name: Universidad Católica del Uruguay - Department of Informatics
     url: https://ucu.edu.uy/
 
 # Short bio (displayed in user profile at end of posts)
