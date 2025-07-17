@@ -9,7 +9,7 @@ main:
     url: research/
     weight: 20
   - name: Research Cheminformatics
-    url: uses/
+    url: research_chem/
     weight: 30
   - name: Publications
     url: publications/
