@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: export.cvuy.uy/cv/?90a888a4ccfedb6e8d844bdc39d7494e3aeb216789178e62bca1ca08ee1ae04d445277e02e1dee5e236f9dda8d4fc9316a2c404e2f7646784eccd259efaa6d56
+    url: static/uploads/resume.pdf
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
