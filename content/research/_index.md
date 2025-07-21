@@ -11,3 +11,11 @@ Hypervectors are remarkably robust: they maintain their semantic integrity even 
 Crucially, this approach reflects how our brains store information: not in single neurons, but in overlapping patterns across many. Similarly, a hypervector spreads meaning across all dimensions, allowing concepts to be combined and manipulated through simple algebra. This means we can define an algebra of operations over hypervectors — a mathematical framework that enables the composition, transformation, and extraction of structured information using well-defined operators.
 
 HDC is a new framework for artificial intelligence that not only covers classical machine learning tasks but also naturally extends into the domain of symbolic AI.
+
+### Current research interests in our research group: 
+- Developing hypervector-based representations for graphs and networks - Using HDC to model pharmaceutical and repetitive molecular structures.
+- Designing algebraic operators for symbolic reasoning over hypervectors.
+- Representing structured knowledge through distributed hypervectors
+- Investigating attention mechanisms within HDC frameworks.
+- Building interpretable models using hyperdimensional representations.
+- Creating multimodal representations by integrating structured and non-structured data.
