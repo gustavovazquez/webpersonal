@@ -1,4 +1,4 @@
-# Research Area - Bio and Cheminformatics
+# Research Area - Bio- and Cheminformatics
 *Feel free to contact us for more information*
 
 Biological and chemical systems are inherently complex, high-dimensional, and structured. They involve multiple interacting components — genes, proteins, molecules — that operate across scales, from molecular to systemic. Understanding these systems and predicting their behavior requires computational models that can effectively represent, integrate, and reason over heterogeneous data.
